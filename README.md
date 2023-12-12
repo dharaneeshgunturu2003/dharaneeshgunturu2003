@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a coding enthusiast and have a good knowledge in web development.
+I am a coding enthusiast and have a good knowledge in web development & Machine learning
 
 
 ## 🌐 Socials:
