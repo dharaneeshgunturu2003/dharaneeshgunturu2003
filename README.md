@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a coding enthusiast and have a good knowledge in web development & Machine learning
+I'm G. Dharaneesh, currently working as an SDE & Operations Intern at Frugal Testing. I specialize in MERN stack and Java & Python programming. With my expertise in programming, I have been able to develop and deploy successful projects and applications. Moreover, my experience in operations and experience in working with clients have enabled me to provide quality services. 
+In my free time, I like to pursue my passion for coding and stay on top of the latest trends in software engineering. I'm an active participant in online coding competitions and hackathons as well. I'm always looking to expand my network and take on new challenges.
 
 
 ## 🌐 Socials:
